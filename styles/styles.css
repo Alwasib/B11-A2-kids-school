@@ -103,11 +103,11 @@ nav{
     width: 100%;
     display: flex;
     gap: 50px;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     /* margin: 50px auto; */
     margin: 0px auto;
    
-    align-items: center;
+    /* align-items: center; */
     
 }
 .banner_txt{
@@ -155,9 +155,9 @@ nav{
     -ms-border-radius:12px ;
     -o-border-radius:12px ;
 }
-.banner_img{
-    max-width: 469px;
-   width: 100%; 
+.bn_img{
+    height: 575px;
+     width: 100%; 
 }
 
 
