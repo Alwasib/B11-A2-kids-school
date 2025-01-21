@@ -337,10 +337,13 @@ nav{
     .banner_txt{
         text-align: center;
         margin-right:  25px;
+        /* margin-bottom: 50px; */
     }
+    
    .Curriculum{
     flex-direction: column;
     padding: 10px 10px;
+    margin-top: 80px;
     gap: 20px;
    }
    .button{
