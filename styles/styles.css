@@ -95,7 +95,7 @@ nav{
 marquee{
     font-weight: 700;
     font-size: 30px;
-    padding: 20px;
+    padding: 20px 0px;
     color:skyblue ;
     background-color:#FFF4DC ;
 }
@@ -678,12 +678,12 @@ ul,li{
     }
     #two1{
         position: absolute;
-     margin-top:-215px ;
+     margin-top:-195px ;
     margin-left: 0px; 
     }
     #two4{
         position: absolute;
-     margin-top:-215px ;
+     margin-top:-195px ;
     margin-left: 0px; 
     }
    .sec2-btn{
