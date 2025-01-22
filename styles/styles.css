@@ -577,16 +577,26 @@ nav{
    margin: 0px;
    }
    
-    #two1, #two2, #two4{
+#two2{
         position: absolute;
-     margin-top:-165px ;
-    margin-left: 10px; 
+     margin-top:-215px ;
+    margin-left: 0px; 
     
    }  
     #two3{
         position: absolute;
-     margin-top:-195px ;
-    margin-left: 10px; 
+     margin-top:-215px ;
+    margin-left: 0px; 
+    }
+    #two1{
+        position: absolute;
+     margin-top:-215px ;
+    margin-left: 0px; 
+    }
+    #two4{
+        position: absolute;
+     margin-top:-215px ;
+    margin-left: 0px; 
     }
    .sec2-btn{
     margin: 50px 100px;
