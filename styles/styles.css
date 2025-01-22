@@ -92,6 +92,13 @@ nav{
     background-color: #FFFF;
     display: none;
 }
+marquee{
+    font-weight: 700;
+    font-size: 30px;
+    padding: 20px;
+    color:skyblue ;
+    background-color:#FFF4DC ;
+}
 .hrline{
    display: none;
 }
@@ -648,6 +655,7 @@ ul,li{
    .story-img2{
     grid-template-columns: repeat(2, 1fr);
     margin: 0px;
+    /* padding-left: 90px; */
    }
    .section2{
     margin-top: 1000px;
@@ -683,7 +691,7 @@ ul,li{
    }
    .footer-container{
     flex-direction: column;
-    padding: 60px;
+    padding: 40px;
     text-align: start;
    }
   
