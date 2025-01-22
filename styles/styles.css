@@ -464,7 +464,7 @@ marquee{
     -moz-border-radius: 16px;
     -ms-border-radius: 16px;
     -o-border-radius: 16px;
-    position: relative;
+    /* position: relative; */
 }
 .ch-img2{
     max-width: 290px;
@@ -477,7 +477,7 @@ marquee{
     -moz-border-radius: 16px;
     -ms-border-radius: 16px;
     -o-border-radius: 16px;
-    position: relative;
+    /* position: relative; */
 }
 .ch-img3{
     max-width: 290px;
@@ -490,7 +490,7 @@ marquee{
     -moz-border-radius: 16px;
     -ms-border-radius: 16px;
     -o-border-radius: 16px;
-    position: relative;
+    /* position: relative; */
 }
 .ch-img4{
     max-width: 290px;
@@ -503,7 +503,7 @@ marquee{
     -moz-border-radius: 16px;
     -ms-border-radius: 16px;
     -o-border-radius: 16px;
-    position: relative;
+    /* position: relative; */
 }
 .sec2-btn{
     margin: 80px 621px;
@@ -632,6 +632,9 @@ ul,li{
        gap: 0px;
      padding-top: 10px;
      padding-bottom: 10px;
+    }
+    marquee{
+        padding: 10px 0px;
     }
 
     .hrline{
