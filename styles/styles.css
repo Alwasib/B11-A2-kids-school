@@ -490,7 +490,7 @@ nav{
     -ms-border-radius: 12px;
     -o-border-radius: 12px;
 }
-
+/* end of main */
 
 
 
@@ -536,6 +536,9 @@ nav{
         text-align: center;
         margin-right:  25px;
         /* margin-bottom: 50px; */
+    }
+    .section1{
+        margin-top: 100px;
     }
     
    .Curriculum{
