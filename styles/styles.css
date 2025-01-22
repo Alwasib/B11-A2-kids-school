@@ -597,6 +597,9 @@ ul,li{
 }
 
 @media screen and (max-width:576px) {
+    body{
+        padding: 0px;
+    }
     
       nav{
         /* padding-left: 0px;
@@ -678,12 +681,12 @@ ul,li{
     }
     #two1{
         position: absolute;
-     margin-top:-190px ;
+     margin-top:-185px ;
     margin-left: 0px; 
     }
     #two4{
         position: absolute;
-     margin-top:-190px ;
+     margin-top:-185px ;
     margin-left: 0px; 
     }
    .sec2-btn{
