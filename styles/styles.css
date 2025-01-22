@@ -676,28 +676,28 @@ ul,li{
    margin: 0px;
    }
    
-  /* #two2{
-        position: absolute;
+  #two2{
+        /* position: absolute; */
      margin-top:-210px ;
     margin-left: 0px; 
     
    }  
     #two3{
-        position: absolute;
+        /* position: absolute; */
      margin-top:-210px ;
     margin-left: 0px; 
     }
     #two1{
-        position: absolute;
+        /* position: absolute; */
      margin-top:-185px ;
     margin-left: 0px; 
     }
     #two4{
-        position: absolute;
+        /* position: absolute; */
      margin-top:-185px ;
     margin-left: 0px; 
-    } */
-     #two2{
+    }
+     /* #two2{
         top: 253px;
         left: -17px;
      }
@@ -712,7 +712,7 @@ ul,li{
      #two4{
         top: 253px;
         left: -17px;
-     }
+     } */
    .sec2-btn{
     margin: 50px 100px;
    }
