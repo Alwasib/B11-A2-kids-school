@@ -561,10 +561,11 @@ nav{
     flex-direction: column;
    margin: 0px;
    }
-   #two{
+  
+   /* #two{
     margin-top:-155px ;
     margin-left: 20px;
-   }
+   } */
    .sec2-btn{
     margin: 50px 100px;
    }
